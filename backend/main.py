@@ -9,6 +9,7 @@ app = FastAPI(title=settings.PROJECT_NAME)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
+    # allow_origins=["https://invoice-extraction-ai-eosin.vercel.app"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

@@ -4,10 +4,8 @@ This project is a sophisticated AI-powered application designed to automate the 
 
 ## 🔗 Live Links
 
-- **Frontend (Vercel)**: https://your-app-name.vercel.app
-- **Backend API (Render)**: https://your-api-name.onrender.com
-- **Demo Video**: [Insert YouTube/Loom Link Here]
-
+- **Frontend (Vercel)**: https://invoice-extraction-ai-eosin.vercel.app/
+- **Backend API (Render)**: https://invoice-extraction-ai-swj3.onrender.com/
 ---
 
 ## 🏗️ System Architecture

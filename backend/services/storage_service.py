@@ -38,8 +38,8 @@ class StorageService:
                 path=file_path,
                 file=file_bytes,
                 # TESTING ONLY: "upsert": "true" overwrites existing files. Remove for production!
-                # file_options={"content-type": content_type, "upsert": "true"}
-                file_options={"content-type": content_type}
+                file_options={"content-type": content_type, "upsert": "true"}
+                # file_options={"content-type": content_type}
             )
 
             # Get the public URL
